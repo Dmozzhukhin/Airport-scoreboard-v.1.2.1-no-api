@@ -1,0 +1,80 @@
+html{
+min-height: 100%;
+padding: 0px;
+margin: 0px;
+}
+header{
+height: 13vh;
+}
+#All{
+padding: 0px;
+}
+
+
+#logo{
+background: url('../img/Domodedovo.png') no-repeat;
+min-height: 73px;
+min-width: 400px; 
+left:1.5vw;
+top: 1.5vh;
+display: block;
+position: relative;
+float: left;
+}
+
+#wrap{
+background: url('../img/Airoport.jpg') no-repeat scroll;;
+background-size: cover;
+min-height: 100vh;
+  
+}
+#navList{
+background-color: none;   
+float: left;
+left: 30vw;
+
+}
+#box{
+background-color: white;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+top: 20vh;
+border-radius: 20px;
+position: relative;
+border-radius: 20px;
+padding-bottom: 1vh;
+}
+table {
+    table-layout: fixed;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.red {
+color: red;
+font-size: 18px;
+
+}
+#option1 {
+width:200px;
+}
+#option2 {
+margin-left: 1vh;
+width:200px;
+}
+#option3 {
+margin-left: 1vh;
+width:200px;
+}
+#Name{
+margin-left:6vw;
+width:200px;
+}
+#MoscowTime{
+margin-left:6vw;
+width:200px;
+font-size: 20px;
+}

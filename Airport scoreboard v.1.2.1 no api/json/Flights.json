@@ -1,0 +1,175 @@
+{
+    "FlightsArrival": [
+        {   "Number": "DM 443",
+            "Cite": "Тюмень",
+            "TimeOfDeparture": "00:06",
+            "TimeOfArrival": "03:14",
+            "Company": "Nord Star",
+            "Status": "1"
+            
+    },
+         {
+           "Number": "DR 159",
+            "Cite": "Нижний Новгород",
+            "TimeOfDeparture": "00:10",
+            "TimeOfArrival": "01:06",
+            "Company": "Utair",
+            "Status": "4"
+    },
+{
+            "Number": "SM 579",
+            "Cite": "Сочи",
+            "TimeOfDeparture": "00:15",
+            "TimeOfArrival": "02:26",
+            "Company": "Aeroflot",
+            "Status": "2"
+    },
+
+ {
+           "Number": "PJ 253",
+            "Cite": "Сургут",
+            "TimeOfDeparture": "00:20",
+            "TimeOfArrival": "03:40",
+            "Company": "Победа",
+            "Status": "3"
+    },
+
+         {
+            "Number": "ES 535",
+            "Cite": "Краснодар",
+            "TimeOfDeparture": "00:25",
+            "TimeOfArrival": "02:21",
+            "Company": "Utair",
+            "Status": "1"
+    },
+
+         {
+            "Number": "OG 363",
+            "Cite": "Уфа",
+            "TimeOfDeparture": "00:25",
+            "TimeOfArrival": "02:37",
+            "Company": "Победа",
+            "Status": "4"
+    },
+
+         {
+            "Number": "UA 573",
+            "Cite": "Анталья",
+            "TimeOfDeparture": "00:30",
+            "TimeOfArrival": "02:31",
+            "Company": "Utair",
+            "Status": "2"
+    },
+
+         {
+            "Number": "NH 437",
+            "Cite": "Самара",
+            "TimeOfDeparture": "00:35",
+            "TimeOfArrival": "02:34",
+            "Company": "Aeroflot",
+            "Status": "3"
+    },
+         {
+            "Number": "DM 437",
+            "Cite": "Самара",
+            "TimeOfDeparture": "00:35",
+            "TimeOfArrival": "02:34",
+            "Company": "Aeroflot",
+            "Status": "3"
+    },
+
+         {
+           "Number": "FL 265",
+            "Cite": "Курган",
+            "TimeOfDeparture": "00:40",
+            "TimeOfArrival": "02:12",
+            "Company": "Utair",
+            "Status": "1"
+
+         }
+
+            ],
+
+"FlightsDeparture": [
+        {   "Number": "JL 156",
+            "Cite": "Дубай",
+            "TimeOfDeparture": "03:05",
+            "TimeOfArrival": "05:20",
+            "Company": "Россия",
+            "Status": "4"
+            
+    },
+         {
+           "Number": "DF 155",
+            "Cite": "Анталья",
+            "TimeOfDeparture": "03:30",
+            "TimeOfArrival": "07:00",
+            "Company": "Турецкие Авиалинии",
+            "Status": "3"
+    },
+{
+            "Number": "NR 423",
+            "Cite": "Мурманск",
+            "TimeOfDeparture": "04:25",
+            "TimeOfArrival": "07:00",
+            "Company": "РусЛайн",
+            "Status": "2"
+    },
+
+ {
+           "Number": "YK 209",
+            "Cite": "Ереван",
+            "TimeOfDeparture": "05:00",
+            "TimeOfArrival": "08:35",
+            "Company": "Победа",
+            "Status": "2"
+    },
+
+         {
+            "Number": "UL 403",
+            "Cite": "Санкт-Петербург",
+            "TimeOfDeparture": "05:15",
+            "TimeOfArrival": "10:00",
+            "Company": "Аэрофлот",
+            "Status": "1"
+    },
+
+         {
+            "Number": "OS 404",
+            "Cite": "Астрахань",
+            "TimeOfDeparture": "05:20",
+            "TimeOfArrival": "08:35",
+            "Company": "Победа",
+            "Status": "1"
+    },
+
+         {
+            "Number": "MF 276",
+            "Cite": "Тамбов",
+            "TimeOfDeparture": "06:00",
+            "TimeOfArrival": "10:10",
+            "Company": "РусЛайн",
+            "Status": "2"
+    },
+
+         {
+            "Number": "IO 267",
+            "Cite": "Хельсинки",
+            "TimeOfDeparture": "06:30",
+            "TimeOfArrival": "11:35",
+            "Company": "Победа",
+            "Status": "4"
+    },
+
+         {
+           "Number": "CD 254",
+            "Cite": "Норильск",
+            "TimeOfDeparture": "08:15",
+            "TimeOfArrival": "09:30",
+            "Company": "Nord Star",
+            "Status": "3"
+
+         }
+
+            ]
+}
